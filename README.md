@@ -6,10 +6,7 @@
 ##一个网站
 <!DOCTYPE html>
 <html lang="en">
-<!--<script>
-    window.location.href="https://blog.csdn.net/wocanimanimazhale";
-</script> -->
-    <head>
+<head>
 	<meta charset="UTF-8">
 	<title>Document</title>
 	<style>
@@ -267,9 +264,7 @@
 	</style>
 </head>
 <body>
-<h1>这是我自己搭建的网站。啦啦啦！！！</h1>
-  <h2>我是YF</h2>
-    <section class="ball1">
+	<section class="ball1">
 		<ul>
 			<li></li>
 			<li></li>
